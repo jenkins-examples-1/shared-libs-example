@@ -1,3 +1,2 @@
-pwd
-ls -lah
-env
+/bin/pwd
+/bin/ls -lah
