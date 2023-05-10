@@ -1,1 +1,3 @@
-pwd && ls -lah
+pwd
+ls -lah
+env
