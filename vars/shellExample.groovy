@@ -1,4 +1,5 @@
 def call() {
   def result =  libraryResource 'test.sh'
-  sh result
+  echo result
+  sh(script: result)
 }
