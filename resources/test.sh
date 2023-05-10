@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd
-ls -lah
+echo Hello $1. Today is $2.
