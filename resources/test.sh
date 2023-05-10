@@ -1,2 +1,3 @@
-/bin/pwd
-/bin/ls -lah
+#!/bin/bash
+pwd
+ls -lah
